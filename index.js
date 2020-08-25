@@ -23,7 +23,7 @@ const options = {
   dataRecover: true, // need to recover data or not when disconnected
 //   ovpnPath: '' // set the path of your .ovpn file, only for linux
 };
-const deviceCount = 1;
+const deviceCount = 2;
 const analogTagNum = 2;
 const discreteTagNum = 3;
 const textTagNum = 3;
